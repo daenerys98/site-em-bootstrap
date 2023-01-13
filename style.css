@@ -1,0 +1,22 @@
+.scrollspySite {
+    position:relative;
+    overflow: auto;
+    height: 355px;
+}
+
+.conteudo {
+     display: table;
+}
+
+.imagem {
+     display: table-cell;
+     float: left;
+     width: 300px;
+     margin-top: -20px;
+     margin-left: 20px;
+}
+
+.texto {
+     display: table-cell;
+     float: left;
+}
